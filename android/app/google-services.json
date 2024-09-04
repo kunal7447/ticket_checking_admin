@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304515993610",
+    "project_id": "ticket-22934",
+    "storage_bucket": "ticket-22934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304515993610:android:4db0a66c1b262cf9454ff3",
+        "android_client_info": {
+          "package_name": "com.example.ticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50PHAW3ssEfy3ChyMtC-MS5WeHeMi3Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304515993610:android:3127fb676a5ec3ea454ff3",
+        "android_client_info": {
+          "package_name": "com.example.ticketadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50PHAW3ssEfy3ChyMtC-MS5WeHeMi3Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
